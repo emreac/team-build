@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa11ec82e9746928e211e7f096812ca, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  gameAnalyticsIosGameKey: 
+  gameAnalyticsIosSecretKey: 
+  gameAnalyticsAndroidGameKey: 3d895a58667583dcca08cd54b270273b
+  gameAnalyticsAndroidSecretKey: 36df493a0511ba6503546fba150f0154014a277e
+  facebookAppId: 1209214863594163
+  facebookClientToken: 2e052ce7fe8e7aac7c11330acdf44b34
+  adjustIOSToken: 
+  adjustAndroidToken: kztlwrlodhj4
+  EditorIdfa: 0fccc540-9966-434b-bc95-6375f8b7a86d
+  UseRemoteConfig: 0
+  UseVoodooAnalytics: 1
+  companyName: Childish Colors
+  privacyPolicyURL: https://childishcolors.com/goalboss.html
+  developerContactEmail: childishcolors@gmail.com
