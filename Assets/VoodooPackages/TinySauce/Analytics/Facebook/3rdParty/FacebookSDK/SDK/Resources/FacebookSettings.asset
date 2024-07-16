@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   selectedAppIndex: 0
   clientTokens:
-  - 2e052ce7fe8e7aac7c11330acdf44b34
+  - 
   appIds:
-  - 1209214863594163
+  - 
   appLabels:
-  - GoalBoss
+  - Team Build
   cookie: 1
   logging: 1
   status: 1
   xfbml: 0
   frictionlessRequests: 1
-  androidKeystorePath: C:\openssl\bin\debug_base64.txt
+  androidKeystorePath: /Users/acikgoz/Desktop/debug64.txt
   iosURLSuffix: 
   appLinkSchemes:
   - list: []
