@@ -12,17 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: faa11ec82e9746928e211e7f096812ca, type: 3}
   m_Name: Settings
   m_EditorClassIdentifier: 
-  gameAnalyticsIosGameKey: 
-  gameAnalyticsIosSecretKey: 
+  gameAnalyticsIosGameKey: 55c60c5699917ed8de6b14a9324a3e1f
+  gameAnalyticsIosSecretKey: 55a27ac0e1d9fad72d8e973a45b8bbcd1eea2c19
   gameAnalyticsAndroidGameKey: 
   gameAnalyticsAndroidSecretKey: 
-  facebookAppId: 
-  facebookClientToken: 
-  adjustIOSToken: 
+  facebookAppId: 1150245259404431
+  facebookClientToken: a4266578aaffb0bd16156ebbc3211fbf
+  adjustIOSToken: af068uy7plog
   adjustAndroidToken: 
   EditorIdfa: 1ab0491d-db2d-4cda-8e76-4fe76c15893c
   UseRemoteConfig: 0
   UseVoodooAnalytics: 1
-  companyName: Beril Games
-  privacyPolicyURL: 
-  developerContactEmail: beril.games.official@gmail.com
+  companyName: Childish Colors
+  privacyPolicyURL: https://childishcolors.com/teamsupply.html
+  developerContactEmail: chilldishcolors@gmail.com

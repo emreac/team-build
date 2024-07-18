@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   selectedAppIndex: 0
   clientTokens:
-  - 
+  - a4266578aaffb0bd16156ebbc3211fbf
   appIds:
-  - 
+  - 1150245259404431
   appLabels:
-  - Team Build
+  - Team Supply
   cookie: 1
   logging: 1
   status: 1
